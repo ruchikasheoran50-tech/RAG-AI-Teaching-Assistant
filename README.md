@@ -52,7 +52,7 @@ The following screenshots show examples of questions asked and responses generat
 
 ![Statistics Answer](Screenshots/Statistics_answer.png)
 
-### 2. Understanding Null and Alternative Hypotheses
+### 2. Understanding Null and Alternative Hypothesis
 
 ![Hypothesis Answer](Screenshots/Hypothesis_answer.png)
 
