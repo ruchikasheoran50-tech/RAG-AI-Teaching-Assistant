@@ -32,7 +32,7 @@ The project uses three recorded English-language Statistics lectures covering:
 
 The project follows two main stages: processing lecture videos and answering user questions.
 
-![Project Workflow](Workflow/Workflow.png)
+![Project Workflow](Workflow.png)
 
 ### Workflow Explanation
 
@@ -50,11 +50,11 @@ The following screenshots show examples of questions asked and responses generat
 
 ### 1. Understanding Statistics
 
-![Statistics Answer](Screenshots/Statistics_answer.png)
+![Statistics Answer](Statistics_answer.png)
 
 ### 2. Understanding Null and Alternative Hypothesis
 
-![Hypothesis Answer](Screenshots/Hypothesis_answer.png)
+![Hypothesis Answer](Hypothesis_answer.png)
 
 *Note: The responses are AI-generated using the retrieved lecture content. The purpose is to provide a basic understanding of the topic and help users locate relevant explanations in the original videos, rather than replace the complete lecture or guarantee independently verified answers.*
 
